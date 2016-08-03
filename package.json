@@ -1,0 +1,13 @@
+{
+  "jspm": {
+    "dependencies": {
+      "jquery": "npm:jquery@^3.1.0"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.2"
+    }
+  },
+  "devDependencies": {
+    "jspm": "^0.16.42"
+  }
+}
